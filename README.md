@@ -1,4 +1,3 @@
-<!-- LogForwarder_20251212062727_2468 -->
 
 # LogForwarder: Real-Time Log Intelligence at Scale
 > "Accelerate your data-driven decisions with LogForwarder, where log intelligence meets modern architecture"
